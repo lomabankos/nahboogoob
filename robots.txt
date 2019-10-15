@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://peezeephoh.alexandsonya.com/sitemap.xml
